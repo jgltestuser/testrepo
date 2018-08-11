@@ -1,0 +1,5 @@
+this is module b contents
+module b
+first line
+
+last line
